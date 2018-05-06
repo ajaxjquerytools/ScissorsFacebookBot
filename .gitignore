@@ -1,0 +1,8 @@
+.vertx
+.idea
+.gradle
+*.iml
+scripts/certs
+scripts/pems
+scripts/prod.sh
+scripts/upload_prod.sh
